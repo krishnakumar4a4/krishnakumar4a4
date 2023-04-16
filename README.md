@@ -24,6 +24,12 @@ Twitter: https://mobile.twitter.com/krishnakumart36
 LinkedIn: https://www.linkedin.com/in/krishnakumarthokala/  
 
 ------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakumar4a4&layout=compact&exclude_repo=github-readme-stats,krishnakumar4a4.github.io&langs_count=8&hide=javascript,html&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakumar4a4&show_icons=true&theme=radical&count_private=true)
+
+
+------------
 > If you like my work, consider supporting it  
 <a href="https://www.buymeacoffee.com/krishnakumart" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35" width="174"></a>
 
